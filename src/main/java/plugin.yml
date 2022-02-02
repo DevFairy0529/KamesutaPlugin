@@ -1,0 +1,6 @@
+## YAML Template.
+---
+name: KamesutaPlugin
+version: 1.0
+author: DevFairy0529 
+main: net.devfairy0529.plugins.kamesutaplugin.kamesutaplugin.KamesutaPluginCore
